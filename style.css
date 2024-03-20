@@ -8,8 +8,10 @@ body{
 
 h1{
     text-align: center;
+    background-color: aliceblue;
 }
 
 p{
     line-height: 2.0 ;
+    font-size: 200%;
 }

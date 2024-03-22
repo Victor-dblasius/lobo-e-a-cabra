@@ -3,7 +3,7 @@ body{
     color: aqua;
     font-family: comic sans ms  ;
     text-align: center;
-    border: double 20px blueviolet;
+    border: double 20px rgb(255, 255, 255);
 }
 
 h1{
